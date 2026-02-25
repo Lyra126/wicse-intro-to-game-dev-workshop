@@ -11,7 +11,6 @@ config_version=5
 [application]
 
 config/name="wicse-workshop"
-run/main_scene="uid://264n6kc1c6q8"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
